@@ -1,0 +1,16 @@
+{
+  "name": "WangshengRealm-V2",
+  "version": "2.0.0",
+  "description": "Professional Discord Bot with Music, Economy, and Ranking",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.14.1",
+    "erela.js": "^2.4.0",
+    "mongoose": "^8.0.0",
+    "colors": "^1.4.0",
+    "dotenv": "^16.3.1"
+  }
+}

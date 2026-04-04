@@ -1,0 +1,13 @@
+{
+  "token": "",
+  "prefix": "<",
+  "mongoURI": "",
+  "nodes": [
+    {
+      "host": "localhost",
+      "port": 2333,
+      "password": "youshallnotpass",
+      "secure": false
+    }
+  ]
+}
