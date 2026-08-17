@@ -1,0 +1,33 @@
+{
+    "voice_log_console": false,
+
+    "auto-resume-save-cooldown": 2500,
+    "auto-resume-delay": 500,
+
+    "MaxAutoplayTracks": 5,
+    
+    "deleteMessagesBeforeTheLastSongPlayedMessages": true,
+
+
+    "COMMENT": "time_delay 0 === insta leave",
+    "leaveOnEmpty_Channel": {
+        "enabled": true,
+        "time_delay": 60000
+    },
+    "LeaveOnEmpty_Queue": {
+        "enabled": true,
+        "time_delay": 60000
+    },
+
+
+    "default_db_data": {
+        "language": "en",
+        "pruning": true,
+        "unkowncmdmessage": false,
+        "autoresume": true,
+        
+        "defaultvolume": 30,
+        "defaultequalizer": false,
+        "defaultautoplay": false
+    }
+}
